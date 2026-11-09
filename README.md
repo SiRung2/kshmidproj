@@ -11,3 +11,6 @@ LibGDX 2D 플랫포머 (3 레벨)
 
 ## 실행
 Android Studio Gradle 탭에서 `lwjgl3 > Tasks > application > run`
+
+시연영상
+https://youtu.be/zt6Mu69eN9M
