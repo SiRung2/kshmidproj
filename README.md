@@ -12,5 +12,7 @@ LibGDX 2D 플랫포머 (3 레벨)
 ## 실행
 Android Studio Gradle 탭에서 `lwjgl3 > Tasks > application > run`
 
+또는 `demo/midproject_ksh_demo.jar` 다운로드 후 `java -jar midproject_ksh_demo.jar`
+
 시연영상
 https://youtu.be/zt6Mu69eN9M
